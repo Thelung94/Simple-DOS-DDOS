@@ -56,6 +56,6 @@ Use responsibly.
 1. **Clone or Download this repository**:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Simple-DOS-DDOS.git
+git clone https://github.com/Thelung94/Simple-DOS-DDOS.git
 cd Simple-DOS-DDOS
 setup.bat

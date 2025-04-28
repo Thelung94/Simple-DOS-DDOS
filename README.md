@@ -58,3 +58,4 @@ Use responsibly.
 ```bash
 git clone https://github.com/YOUR_USERNAME/Simple-DOS-DDOS.git
 cd Simple-DOS-DDOS
+setup.bat

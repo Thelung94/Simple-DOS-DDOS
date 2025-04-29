@@ -14,7 +14,7 @@ eel.init('frontend')
 main.start_backend()
 
 # Non-blocking start
-eel.start('index.html', size=(1200, 1000), port=3033, block=False)
+eel.start('index.html', size=(1200, 1000), port=3000, block=False)
 
 print("[*] App started at http://localhost:3033")
 while True:
